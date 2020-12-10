@@ -45,8 +45,8 @@ Change config by set the corresponding environment variable name.
 ```sh
 #!/bin/sh
 
-# get botkaca source
-git clone https://github.com/azamaulanaaa/botkaca.git
+# get Leonce-Torrent-Uploader-2021 source
+git clone https://github.com/dlance87/Leonce-Torrent-Uploader-2021.git
 
 # build then execute using docker image
 docker build -t azamaulanaaa/botkaca botkaca
